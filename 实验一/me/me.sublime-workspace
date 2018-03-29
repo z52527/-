@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"forv\tVector For Loop"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 517.0,
+		"last_filter": "git:s",
+		"selected_items":
+		[
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"Git:",
+				"Git: Init"
+			],
+			[
+				"Git",
+				"Git: Init"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"evernote",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				":wp",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				":1",
+				"Snippet: $1.begin(), $1.end()"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 650.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/zhaohy/.ssh/Gitkey.pub",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/zhaohy/Desktop/TEST/5.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/6.cpp",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/zhaohy/Desktop/tmp/1.in",
+		"/C/Users/zhaohy/Desktop/TEST/7.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/2.cpp",
+		"/C/Users/zhaohy/Desktop/一些板子/一道回文dp.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/1.in",
+		"/C/Users/zhaohy/Desktop/tmp/1.cpp",
+		"/C/Users/zhaohy/Desktop/一些板子/尺取法求满足条件连续和最小长度.cpp",
+		"/C/Users/zhaohy/Desktop/一些板子/结构体优先队列.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/4.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/3.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/2.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/1.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/D.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/C.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/B.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/A.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/gg.cpp",
+		"/C/Users/zhaohy/Desktop/新建文件夹/Evaluation.md",
+		"/C/Users/zhaohy/Desktop/一些板子/拓扑排序.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/123.cpp",
+		"/C/Users/zhaohy/Desktop/一些板子/spfa判负环差分约束.cpp",
+		"/C/Users/zhaohy/Documents/WeChat Files/z52527/Files/temp(1).md",
+		"/C/Users/zhaohy/Desktop/一些板子/二分.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/3.cpp",
+		"/C/Users/zhaohy/Desktop/一些板子/埃氏筛法+bfs.cpp",
+		"/C/Users/zhaohy/Desktop/一些板子/快速幂.cpp",
+		"/C/Users/zhaohy/Desktop/333.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/dijs.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/33.cpp",
+		"/C/Users/zhaohy/Desktop/二叉搜索树.cpp",
+		"/C/Users/zhaohy/Desktop/lis.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/计导.txt",
+		"/C/Users/zhaohy/Documents/Tencent Files/472320450/FileRecv/C.cpp",
+		"/C/Users/zhaohy/Desktop/TEST/骚操作.cpp",
+		"/C/Users/zhaohy/Desktop/等价关系.html",
+		"/C/Users/zhaohy/Documents/Tencent Files/472320450/FileRecv/初级数据结构.c",
+		"/C/Users/zhaohy/Documents/Tencent Files/472320450/FileRecv/数论.c",
+		"/C/Users/zhaohy/Documents/Tencent Files/472320450/FileRecv/prim模板.c",
+		"/C/Users/zhaohy/Desktop/s.cpp",
+		"/C/Users/zhaohy/Documents/Tencent Files/472320450/FileRecv/二分图匹配.c",
+		"/C/Users/zhaohy/Desktop/TEST/1231234.cpp",
+		"/C/wordpress-beanstalk/.ebextensions/wordpress.config",
+		"/C/wordpress-beanstalk/.ebextensions/loadbalancer-sg.config",
+		"/C/wordpress-beanstalk/.ebextensions/efs-mount.config",
+		"/C/wordpress-beanstalk/.ebextensions/efs-create.config",
+		"/C/wordpress-beanstalk/.ebextensions/dev.config",
+		"/C/Users/zhaohy/Desktop/index.html",
+		"/C/Users/zhaohy/Desktop/123.cpp",
+		"/e/p/giaw/src/pkg/mingwrt-4.0.3-1-mingw32-src/mingwrt-4.0.3-1-mingw32-src/src/libcrt/crt/crt1.c",
+		"/C/Users/zhaohy/Desktop/tmp/ustb9.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb99.cpp",
+		"/C/Users/zhaohy/Desktop/234.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb7.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/structcopy.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/poj2431.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/poj3461.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb5.cpp",
+		"/C/Users/zhaohy/Desktop/zuheshumod.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb1.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb2.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb3.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb6.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb10.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/ustb4.cpp",
+		"/C/Users/zhaohy/Documents/WeChat Files/z52527/Files/源1.cpp",
+		"/c/mingw32/include/stdio.h",
+		"/e/p/giaw/src/pkg/mingwrt-4.0.3-1-mingw32-src/mingwrt-4.0.3-1-mingw32-src/misc/src/libcrt/stdio/pformat.c",
+		"/e/p/giaw/src/pkg/mingwrt-4.0.3-1-mingw32-src/mingwrt-4.0.3-1-mingw32-src/src/libcrt/stdio/vprintf.c",
+		"/C/Users/zhaohy/Desktop/poj3461.cpp",
+		"/C/Users/zhaohy/Desktop/tmp/qsort.cpp",
+		"/C/Users/zhaohy/Desktop/1.cpp",
+		"/C/Users/zhaohy/Desktop/2.cpp",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+		"/C/Users/zhaohy/Desktop/3.cpp",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGDB.sublime-settings",
+		"/C/Users/zhaohy/Desktop/1.in",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/Solarized Toggle/SolarizedToggle.sublime-settings",
+		"/C/Users/zhaohy/AppData/Roaming/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 90.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "me.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"2.cpp",
+				"C:\\Users\\zhaohy\\Desktop\\2.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

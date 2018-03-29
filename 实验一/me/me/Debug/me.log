@@ -1,0 +1,4 @@
+﻿  acc.cpp
+c:\users\zhaohy\desktop\上机实验\me\me\acc.cpp(10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  me.vcxproj -> C:\Users\zhaohy\Desktop\上机实验\me\Debug\me.exe
+  me.vcxproj -> C:\Users\zhaohy\Desktop\上机实验\me\Debug\me.pdb (Partial PDB)
